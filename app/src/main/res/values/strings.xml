@@ -2,4 +2,112 @@
     <string name="app_name">NewsFeedApp</string>
     <string name="no_Articles">No articles found.</string>
     <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Article Settings</string>
+
+    <string name="settings_Football">football</string>
+    <string name="settings_News">News</string>
+    <string name="settings_Politics">Politics</string>
+    <string name="settings_music">music</string>
+    <string name="settings_sport">sport</string>
+    <string name="settings_games">games</string>
+
+
+    <string name="settings_key_value_label">Key Value</string>
+    <string name="settings_key_value" translatable="false">api-key</string>
+    <string name="settings_key_value_default" translatable="false">test</string>
+
+    <!-- Strings For Order-By Preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+
+    <!-- Label for order-by newest option  -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by  oldest option  -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by Relevance option  -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Strings For section Preference -->
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">q</string>
+    <string name="settings_section_default" translatable="false">@string/settings_Football</string>
+
+    <!-- Label for football  option  -->
+    <string name="settings_section_football_label">@string/settings_Football</string>
+    <string name="settings_section_football_value" translatable="false">football</string>
+
+    <!-- Label for News option  -->
+    <string name="settings_section_News_label">@string/settings_News</string>
+    <string name="settings_section_News_value" translatable="false">news</string>
+
+    <!-- Label for Politics option  -->
+    <string name="settings_section_Politics_label">@string/settings_Politics</string>
+    <string name="settings_section_Politics_value" translatable="false">Politics</string>
+
+    <!-- Label for music option  -->
+    <string name="settings_section_music_label">@string/settings_music</string>
+    <string name="settings_section_music_value" translatable="false">music</string>
+
+    <!-- Label for sport option  -->
+    <string name="settings_section_sport_label">@string/settings_sport</string>
+    <string name="settings_section_sport_value" translatable="false">sport</string>
+
+    <!-- Label for games option  -->
+    <string name="settings_section_games_label">@string/settings_games</string>
+    <string name="settings_section_games_value" translatable="false">games</string>
+
+    <!-- Strings For use-date Preference -->
+    <string name="settings_use_date_label">Use Date</string>
+    <string name="settings_use_date_key" translatable="false">use_date</string>
+    <string name="settings_use_date_default" translatable="false">@string/settings_use_date_published_value</string>
+
+
+    <!-- Label for use-date Published option  -->
+    <string name="settings_use_date_published_label">Published</string>
+    <string name="settings_use_date_published_value" translatable="false">published</string>
+
+
+    <!-- Label for use-date Published option  -->
+    <string name="settings_use_date_first_publication_label">First Publication</string>
+    <string name="settings_use_date_first_publication_value" translatable="false">first-publication</string>
+
+
+    <!-- Label for use-date  Newspaper-Edition option  -->
+    <string name="settings_use_date_newspaper_edition_label">Newspaper-Edition</string>
+    <string name="settings_use_date_newspaper_edition_value" translatable="false">newspaper-edition</string>
+
+    <!-- Label for use-date last-modified option  -->
+    <string name="settings_use_date_last_modified_label">Last Modified</string>
+    <string name="settings_use_date_last_modified_value" translatable="false">last-modified</string>
+
+
+    <!-- Strings For from-date Preference -->
+    <string name="settings_from_date_label">From Date</string>
+    <string name="settings_from_date_key" translatable="false">from-date</string>
+    <string name="settings_from_date_default" translatable="false">2018-01-01</string>
+
+    <!-- Label for from-date 2018 option  -->
+    <string name="settings_from_date_2018_label">2018</string>
+    <string name="settings_from_date_2018_value" translatable="false">2018-01-01</string>
+
+    <!-- Label for from-date 2017 option  -->
+    <string name="settings_from_date_2017_label">2017</string>
+    <string name="settings_from_date_2017_value" translatable="false">2017-01-01</string>
+
+    <!-- Label for from-date  2016 option  -->
+    <string name="settings_from_date_2016_label">2016</string>
+    <string name="settings_from_date_2016_value" translatable="false">2016-01-01</string>
+
+    <!-- Label for from-date 2015 option  -->
+    <string name="settings_from_date_2015_label">2015</string>
+    <string name="settings_from_date_2015_value" translatable="false">2015-01-01</string>
+
 </resources>

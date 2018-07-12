@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_football_label</item>
+        <item>@string/settings_section_News_label</item>
+        <item>@string/settings_section_Politics_label</item>
+        <item>@string/settings_section_music_label</item>
+        <item>@string/settings_section_sport_label</item>
+        <item>@string/settings_section_games_label</item>
+    </string-array>
+
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_football_value</item>
+        <item>@string/settings_section_News_value</item>
+        <item>@string/settings_section_Politics_value</item>
+        <item>@string/settings_section_music_value</item>
+        <item>@string/settings_section_sport_value</item>
+        <item>@string/settings_section_games_value</item>
+    </string-array>
+
+
+    <string-array name="settings_use_date_labels">
+        <item>@string/settings_use_date_first_publication_label</item>
+        <item>@string/settings_use_date_published_label</item>
+        <item>@string/settings_use_date_newspaper_edition_label</item>
+        <item>@string/settings_use_date_last_modified_label</item>
+    </string-array>
+
+    <string-array name="settings_use_date_values">
+        <item>@string/settings_use_date_first_publication_value</item>
+        <item>@string/settings_use_date_published_value</item>
+        <item>@string/settings_use_date_newspaper_edition_value</item>
+        <item>@string/settings_use_date_last_modified_value</item>
+    </string-array>
+
+    <string-array name="settings_from_date_labels">
+        <item>@string/settings_from_date_2018_label</item>
+        <item>@string/settings_from_date_2017_label</item>
+        <item>@string/settings_from_date_2016_label</item>
+        <item>@string/settings_from_date_2015_label</item>
+    </string-array>
+
+    <string-array name="settings_from_date_values">
+        <item>@string/settings_from_date_2018_value</item>
+        <item>@string/settings_from_date_2017_value</item>
+        <item>@string/settings_from_date_2016_value</item>
+        <item>@string/settings_from_date_2015_value</item>
+    </string-array>
+</resources>
